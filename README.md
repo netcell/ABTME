@@ -1,7 +1,9 @@
 NGUYEN TUAN ANH
 ============
 
-**Contacts:** anhnt.fami@gmail.com - @netcell
+**Contacts:** anhnt.fami@gmail.com
+
+**Github:** http://github.com/netcell
 
 ABOUT ME
 --------------------
@@ -15,29 +17,27 @@ SKILLS
 --------------------
 
 **Javascript:** My favorite and first-choice language since 2012.
-
-- Efficient and familiar with javascript hypes including but not limited to `Typescript`, `Cordova`, etc. 
-- I can can regularly design my own build scripts with `Gulp`. My favorite transpiler is `Browserify`.
+ 
+- I can and do regularly design my own build scripts.
 - Frameworks & libraries of choice: `React`, `Phaser.js`, `lodash`, `Ionic2`.
 - Occasionally design my own frameworks or development tools as hobbies or of neccessity.
 
-**Unity3D:** Good game engine. Familiar but not my first choice of work, since 2015.
+**Unity3D:**
 
-- Prefer working with `C#`.
-- My experience cover a few games including the revamped multiplayer version of Sword of Vendetta, the Hanoi GGJ winner Night of Shame.
+- My experiences cover a few games including the revamped multiplayer version of Sword of Vendetta, the Hanoi GGJ winner Night of Shame.
 - Occasionally design my own libraries as hobbies. Eg. a library for deserializing JSON for Unit3D C#.
 
-**Audio**: While I do not do audio editting, I have good sense of sound designing and can help people produce a good voice acting performance. Check out Night of Shame to see for yourself.
+**Audio**: 
 
-Basic knowledge: **Java**, **C**, **Python**, **Lua**.
+- While I do not do audio editting, I have good sense of sound designing and can help people produce a good voice acting performance. Check out **Night of Shame** to see for yourself.
 
-Experience
+EXPERIENCES
 ----------
 
 # 1. GAMES
 
 ### [UNDISCLOSABLE] - 2016
-2 web client for turn-based multiplayer games.
+DOM based HTML5 game client for turn-based multiplayer games.
 
 ```
 - DOM based HTML5 game client.
@@ -131,7 +131,6 @@ Web/iOS infinite running game.
 [![IMAGE ALT TEXT HERE](http://i.imgur.com/nCiJPBu.png)](https://www.youtube.com/watch?v=qFClox5je2Q)
 
 - https://apps.facebook.com/whitedrop/
-- https://www.youtube.com/watch?v=qFClox5je2Q
 
 ```
 - Develop iOS version on Lua (Codea)
@@ -166,20 +165,6 @@ Side project developing a painting webapp that can smooth user's stroke in realt
 ```
 ----------
 
-### SOMIA: DREAM WITHOUT END - 2016
-Third place of Edtech Hackathon 2016 (Hanoi).
-A language learning app that helps user learn vocabulary during their sleep.
-
-[![IMAGE ALT TEXT HERE](http://i.imgur.com/XsoXZ2S.png)](https://www.youtube.com/watch?v=URGq6sNvzso)
-
-- https://github.com/vunq90/subconscious-learning
-
-```
-- HTML5 hybrid app.
-- Sleep tracking with accelerator sensor, sampled-down data with realtime graph.
-```
-----------
-
 ### ANNDORE - 2016
 Bag designing editor (Web)
 
@@ -206,6 +191,19 @@ Web-based Lunar calendar scheduler.
 ```
 ----------
 
+### SOMIA: DREAM WITHOUT END - 2016
+Third place of Edtech Hackathon 2016 (Hanoi).
+A language learning app that helps user learn vocabulary during their sleep.
+
+[![IMAGE ALT TEXT HERE](http://i.imgur.com/XsoXZ2S.png)](https://www.youtube.com/watch?v=URGq6sNvzso)
+
+- https://github.com/vunq90/subconscious-learning
+
+```
+- HTML5 hybrid app.
+- Sleep tracking with accelerator sensor, sampled-down data with realtime graph.
+```
+---------- 
 <!--### OHAY REWARD MANAGEMENT - 2014
 Reward management for a multi-network-marketing-like system.
 

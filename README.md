@@ -65,7 +65,7 @@ Non-graphical sound-based Unity3D game.
 ### SWORD OF VENDETTA - 2014, 2015
 A action adventure JRPG about vengence, betrayal and romance based on real Vietnamese historical events.
 
-[![IMAGE ALT TEXT HERE](http://i.imgur.com/kfNSRad.png)](https://www.youtube.com/watch?v=bFmdAGMzZxY)
+[![IMAGE ALT TEXT HERE](http://i.imgur.com/kfNSRad.png)](https://www.youtube.com/watch?v=gznyZV5Cg_8)
 
 ```
 - Game and story design
